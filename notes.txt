@@ -1,0 +1,26 @@
+computationally: ok to have an ideal gas, use 50 particles instead of 10^23 particles, tweak the ideal gas law
+
+less literature publications (e.g. superfluid He^3), won't find publications on the leonard jones potential anymore
+
+
+real non ideal gases have multiple proponents
+one leonard jones reaction for A and A interact
+different for B and B to interact
+third for A and B to interact
+
+
+
+"""
+See the documentation here:
+
+http://www.pygame.org/docs/ref/rect.html
+
+The Rect object has several virtual attributes which can be used to move and align the Rect:
+
+top, left, bottom, right
+topleft, bottomleft, topright, bottomright
+midtop, midleft, midbottom, midright
+center, centerx, centery
+size, width, height
+w, h
+"""
