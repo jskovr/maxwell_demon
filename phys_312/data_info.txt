@@ -1,0 +1,87 @@
+PICKLE FILE CONTENTS
+
+NON DEMON DATA
+
+data.p
+initial speed: 20
+trials: 1000
+particles: 60
+frames: 300
+
+data2.p
+initial speed: 20
+trials: 1000
+particles: 60
+frames: 600
+
+data3.p (adjusted boundary coordinates)
+initial speed: 50
+trials: 1000
+particles: 60
+frames: 1000
+
+data4.p (adjusted boundary coordinates)
+initial speed: 50
+trials: 2000
+particles: 60
+frames: 1000
+
+
+DEMON DATA
+
+demon_data01.p
+initial_speed: 50
+trials: 30
+particles: 40
+divisions: 1
+speed_boundaries = 3, 6, 9, 12, 15, 17, 19
+frames = 300
+
+demon_data02.p
+initial_speed: 50
+trials: 100
+particles: 40
+divisions: 1
+speed_boundaries = 3, 6, 9, 12, 15, 17, 19, 21, 23, 25, 27, 29
+frames = 300
+
+demon_data04.p
+initial_speed: 60
+trials: 100
+particles: 60
+divisions: 650, 1300
+speed_boundaries = 3, 6, 9, 12, 15, 17, 19, 21, 23, 25, 27, 29
+frames = 500
+
+
+demon_data05.p
+initial_speed: 70
+trials: 100
+particles: 60
+divisions: 650, 1300
+speed_boundaries = 3, 6, 9, 12, 15, 17, 19, 21, 23, 25, 27, 29
+frames = 500
+
+demon_data06.p
+initial_speed: 150
+trials: 120
+particles: 60
+divisions: 650, 1300
+speed_boundaries = 3, 6, 9, 12, 15, 17, 19, 21, 23, 25
+frames = 600
+
+demon_data07.p THIS WAS A GOOD ONE
+initial_speed: 20
+trials: 100
+particles: 30
+divisions: 1300
+speed_boundaries = 3, 6, 9, 12, 15, 17, 19, 21, 23, 25
+frames = 4000
+
+demon_data08.p
+initial_speed: 20
+trials: 500
+particles: 30
+divisions: 1300
+speed_boundaries = 3, 6, 9, 12, 15, 17, 19, 21, 23, 25
+frames = 5000
